@@ -1,0 +1,6 @@
+*.o
+*.bin
+installer
+kernel.bin
+*.out
+.DS_Store
